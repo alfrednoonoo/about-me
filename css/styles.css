@@ -79,13 +79,13 @@ a:hover{
 
 .bottom-cloud {
     position: relative;
-    left: -144px;
+    left: -120px;
     bottom: -40px;
 }
 
 .top-cloud {
     position: relative;
-    right: -144px;
+    right: -120px;
     top: -80px;
 }
 
